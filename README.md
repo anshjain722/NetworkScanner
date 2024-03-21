@@ -12,7 +12,7 @@
 
 ## v0.1
 
-### In this version we have the basic functionalities that are...
+### In this version we have the basic functionalities
 
 1. Port scanning for a single device.
 
