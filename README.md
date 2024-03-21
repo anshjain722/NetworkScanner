@@ -8,7 +8,11 @@
 
 1. Divided code into different function
 2. Added threading to make the code faster
-3. Fixed some issues from version v0.1
+    ![image](https://github.com/anshjain722/NetworkScanner/blob/main/Photos/version2_speed.png)
+4. Fixed some issues from version v0.1
+
+   
+
 
 ## v0.1
 
@@ -22,6 +26,7 @@
 
     - Shows some valid IP address as invalid **(Fixed)**
     - Very slow but I don't know if it can become better as it is wrote in python which is known for being slow.**(Fix in 2nd point in v0.2)**
+      ![image](https://github.com/anshjain722/NetworkScanner/blob/main/Photos/version1_speed.png)
 
 ## Future planning
 
