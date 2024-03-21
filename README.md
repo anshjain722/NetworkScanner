@@ -1,17 +1,28 @@
-# Port Scanner
+# Network Scanner
 
-## About
+- This is a network scanner built in python
 
-This is a network scanner built in Python for scanning open ports and identifying potential vulnerabilities.
+## v0.2
 
-### v0.1
+### **Done**
 
-In this version, the following basic functionalities are implemented:
+1. Divided code into different function
+2. Added threading to make the code faster
+3. Fixed some issues from version v0.1
 
-- Port scanning for a single device
-- Port scanning for a network of devices
+## v0.1
 
-#### Known Issues
+### In this version we have the basic functionalities that are...
 
-- Some valid IP addresses are incorrectly identified as invalid.
-- The scanning process is slow due to the use of Python, which is known for its slower execution speed.
+1. Port scanning for a single device.
+
+    - Port scanning for a network of devices.
+
+2. Problems in this model
+
+    - Shows some valid IP address as invalid **(Fixed)**
+    - Very slow but I don't know if it can become better as it is wrote in python which is known for being slow.**(Fix in 2nd point in v0.2)**
+
+## Future planning
+
+- Port the whole program into rust to make it more secure
