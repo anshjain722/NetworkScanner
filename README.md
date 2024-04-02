@@ -35,6 +35,13 @@
 - Basic IP and port range validation.
 - Limited error handling capabilities.
 
+### **Done**
+
+1. Divided code into different functions.
+2. Added threading to make the code faster.
+    ![Speed Improvement](https://github.com/anshjain722/NetworkScanner/blob/main/Photos/version2_speed.png)
+3. Fixed some issues from version v0.1.
+
 ## v0.1
 
 ### Features
@@ -47,6 +54,18 @@
 - Incorrectly identifies some valid IP addresses as invalid.
 - Sluggish performance due to sequential execution.
 
+### In this version we have the basic functionalities
+
+1. Port scanning for a single device.
+
+    - Port scanning for a network of devices.
+
+### Problems in this model
+
+- Shows some valid IP address as invalid **(Fixed)**
+- Very slow but I don't know if it can become better as it is written in Python which is known for being slow. **(Fixed in 2nd point in v0.2)**
+  ![Speed Issue](https://github.com/anshjain722/NetworkScanner/blob/main/Photos/version1_speed.png)
+
 ## Future Plans
 
-- Consider integrating additional features such as service detection.
+- Consider porting the whole program into Rust to make it more secure.
