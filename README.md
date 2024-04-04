@@ -2,6 +2,11 @@
 
 - A Python-based network scanner.
 
+## Future Plans
+
+- Considering porting the whole program into Rust.
+- Considering adding additional network reconnaissance features for deeper analysis.
+
 ## v0.4
 
 ### **Improvements**
@@ -90,8 +95,3 @@
 - Shows some valid IP address as invalid **(Fixed)**
 - Very slow but I don't know if it can become better as it is written in Python which is known for being slow. **(Fixed in 2nd point in v0.2)**
   ![Speed Issue](https://github.com/anshjain722/NetworkScanner/blob/main/Photos/version1_speed.png)
-
-## Future Plans
-
-- Consider porting the whole program into Rust to make it more secure.
-- Consider adding additional network reconnaissance features for deeper analysis.
