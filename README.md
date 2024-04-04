@@ -1,7 +1,9 @@
 # Network Scanner
 
 - A Python-based network scanner.
-
+---
+### Suggestions and contributions are highly valued and greatly appreciated. If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request. Together, we can make this project even better!
+---
 ## Future Plans
 
 - Considering porting the whole program into Rust.
